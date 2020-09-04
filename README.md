@@ -25,12 +25,9 @@ Feel free to use 🎉️.
 ![](public/app-icon/128.png)
 
 
-
 ## Know Issues
 
 * Nothing
-
-
 
 ## How to install
 
@@ -54,9 +51,8 @@ Feel free to use 🎉️.
 
 ###### Second Step
 
-<code>$ npm i & npm start</code>
-
-
+<code>$ npm i</code>
+<code>$ npm start</code>
 
 ## Screenshot
 
@@ -70,21 +66,15 @@ Sucess event and Format not supported alert
 
 * If you have no time to fix it please open an issue.
 
-
-
 ### Supporting and maintaining the project
 
 help me maintain it and keep adding more improves, my daughter and I would be grateful 🎉️!!! 
-
-
 
 **I Want Support** ❤️
 
 <a href='https://www.paypal.me/heriberto1717'>
 <img src='https://www.paypalobjects.com/en_US/MX/i/btn/btn_donateCC_LG.gif' alt='PayPal Me' width='140' />
 </a>
-
-
 
 ### License
 
