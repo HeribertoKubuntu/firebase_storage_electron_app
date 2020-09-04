@@ -39,7 +39,7 @@ Feel free to use 🎉️.
 
 ###### First Step
 
-* Edit app.js with your credentials of Firebase Project
+* Edit [app.js](https://github.com/HeribertoKubuntu/firebase_storage_electron_app/blob/master/public/app.js) with your credentials of Firebase Project
 
 ```
     apiKey: "some_api_key_here",
