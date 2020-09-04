@@ -49,6 +49,19 @@ Feel free to use 🎉️.
     storageBucket: "some_bucket_here.appspot.com"
 ```
 
+* Add Firebase storage rules:
+
+```
+ service firebase.storage {
+   match /b/{bucket}/o {
+     match /{allPaths=**} {
+       allow read, write;
+     }
+   }
+ }
+```
+
+
 ###### Second Step
 
 <code>$ npm i</code>
