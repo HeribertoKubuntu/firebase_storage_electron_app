@@ -1,0 +1,19 @@
+{
+  "name": "fireuploadhd",
+  "version": "1.0.0",
+  "description": "Easy app for upload pictures on Firebase Storage",
+  "main": "index.js",
+  "scripts": {
+    "start": "electron . && index.js"
+  },
+  "author": "Heriberto Delgado",
+  "license": "MIT",
+  "devDependencies": {
+    "express": "^4.17.1",
+    "nodemon": "^2.0.4"
+  },
+  "dependencies": {
+    "electron": "^8.5.1",
+    "listr": "^0.14.3"
+  }
+}
