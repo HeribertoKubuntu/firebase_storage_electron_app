@@ -52,6 +52,7 @@ Feel free to use 🎉️.
 ###### Second Step
 
 <code>$ npm i</code>
+
 <code>$ npm start</code>
 
 ## Screenshot
