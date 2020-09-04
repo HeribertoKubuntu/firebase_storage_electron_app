@@ -52,13 +52,13 @@ Feel free to use 🎉️.
 * Add Firebase storage rules:
 
 ```
- service firebase.storage {
-   match /b/{bucket}/o {
-     match /{allPaths=**} {
-       allow read, write;
-     }
-   }
- }
+service firebase.storage {
+  match /b/{bucket}/o {
+    match /{allPaths=**} {
+      allow read, write: if true;
+    }
+  }
+}
 ```
 
 
