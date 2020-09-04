@@ -4,7 +4,7 @@ Easy app for upload images to [Frirebase Storage](https://firebase.google.com/) 
 
 **Features**
 
-* Formats supported: gif | jpg | png | jpeg (You can edited on line 56 on script.js)
+* Formats supported: gif | jpg | png | jpeg (You can edited on line 56 on [script.js](https://github.com/HeribertoKubuntu/firebase_storage_electron_app/blob/master/public/script.js))
 * Drop and drag files
 * Preview screen
 * Easy execution
@@ -36,7 +36,7 @@ Feel free to use 🎉️.
 
 * Download or copy the repository 
 
-<code>$ git clone https://github.com/HeribertoKubuntu/Show-MyIP.git</code>
+<code>$ git clone https://github.com/HeribertoKubuntu/firebase_storage_electron_app.git</code>
 
 ## How to start
 
